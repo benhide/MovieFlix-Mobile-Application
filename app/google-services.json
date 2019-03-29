@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "922517495394",
+    "firebase_url": "https://movieflix-final.firebaseio.com",
+    "project_id": "movieflix-final",
+    "storage_bucket": "movieflix-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922517495394:android:69bb8a94d8dfba78",
+        "android_client_info": {
+          "package_name": "com.hid16605093.movieflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922517495394-lf315dp5ij6ooecnldi377td3m0i3ngk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpgAIpWRQNBoLvYvyPCXz9vnksGI0aoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
