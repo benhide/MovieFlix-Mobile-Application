@@ -7,3 +7,8 @@ The mobile application makes appropriate use of both of the following technical 
 - Mobile sensors such as camera and location, and uses a local storage method.
 - REST API(s) with parsing and displaying of returned data.
 - YouTube Api intergration 
+
+___
+*Click on image to see video*
+<a href="https://www.youtube.com/watch?v=Ef2PHt6ILxw" target="_blank"><img src="https://img.youtube.com/vi/Ef2PHt6ILxw/maxresdefault.jpg" 
+alt="Movie/cinema search mobile app" width="920" height="517" border="0" /></a>
